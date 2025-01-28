@@ -1,11 +1,11 @@
 # Streamlit Document Editor
 
-A powerful document editing and analysis application built with Streamlit, featuring text analysis, visualization, and Azure integration.
+A document editing and analysis application built with Streamlit, featuring text analysis, visualization, and Azure integration.
 
 ## Features
 
 - Document editing with real-time preview
-- Advanced text analysis including readability metrics and syntax checking
+- Text analysis including readability metrics and syntax checking
 - Word cloud visualization
 - Azure integration for cloud storage
 - File import/export capabilities
